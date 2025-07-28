@@ -1,0 +1,14 @@
+/Users/businessonly/Desktop/Programming langauges/CharacterCreation/bin/Debug/net9.0/CharacterCreation
+/Users/businessonly/Desktop/Programming langauges/CharacterCreation/bin/Debug/net9.0/CharacterCreation.deps.json
+/Users/businessonly/Desktop/Programming langauges/CharacterCreation/bin/Debug/net9.0/CharacterCreation.runtimeconfig.json
+/Users/businessonly/Desktop/Programming langauges/CharacterCreation/bin/Debug/net9.0/CharacterCreation.dll
+/Users/businessonly/Desktop/Programming langauges/CharacterCreation/bin/Debug/net9.0/CharacterCreation.pdb
+/Users/businessonly/Desktop/Programming langauges/CharacterCreation/obj/Debug/net9.0/CharacterCreation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/businessonly/Desktop/Programming langauges/CharacterCreation/obj/Debug/net9.0/CharacterCreation.AssemblyInfoInputs.cache
+/Users/businessonly/Desktop/Programming langauges/CharacterCreation/obj/Debug/net9.0/CharacterCreation.AssemblyInfo.cs
+/Users/businessonly/Desktop/Programming langauges/CharacterCreation/obj/Debug/net9.0/CharacterCreation.csproj.CoreCompileInputs.cache
+/Users/businessonly/Desktop/Programming langauges/CharacterCreation/obj/Debug/net9.0/CharacterCreation.dll
+/Users/businessonly/Desktop/Programming langauges/CharacterCreation/obj/Debug/net9.0/refint/CharacterCreation.dll
+/Users/businessonly/Desktop/Programming langauges/CharacterCreation/obj/Debug/net9.0/CharacterCreation.pdb
+/Users/businessonly/Desktop/Programming langauges/CharacterCreation/obj/Debug/net9.0/CharacterCreation.genruntimeconfig.cache
+/Users/businessonly/Desktop/Programming langauges/CharacterCreation/obj/Debug/net9.0/ref/CharacterCreation.dll
