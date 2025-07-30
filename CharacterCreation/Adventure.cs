@@ -10,9 +10,31 @@ public class Adventure
         this._pathDecisions = pathDecisions;
     }
 
+    public void StartAdventure()
+    {
+        Console.WriteLine("Welcome to the Adventure!");
+        int pathNumber = 1; // to display path numbers
+
+        foreach (PathDecision path in _pathDecisions)
+        {
+            Console.WriteLine($"Path {pathNumber++}:");
+            DisplayPath(path);
+            int userChoice = GetUserChoice();
+            if (path.IsPathChosen(userChoice))
+            {
+                Console.WriteLine("You have chosen this path.");
+                DisplayPathResults();
+            }
+            else
+            {
+                Console.WriteLine("You did not choose this path.");
+            }
+        }
+    }
+
     private void DisplayPath(PathDecision path)
     {
-        Console.foregroundColor = ConsoleColor.Cyan;
+        Console.ForegroundColor = ConsoleColor.Cyan;
         Console.WriteLine("╔═══════════════════════════════════════════════════════════════════════╗");
         Console.WriteLine("║                                 Choice                                ║");
         Console.WriteLine("╚═══════════════════════════════════════════════════════════════════════╝");
@@ -31,7 +53,7 @@ public class Adventure
 
     private int GetUserChoice()
     {
-        COnsole.Write("Your choice (number): ");
+        Console.Write("Your choice (number): ");
         string input = Console.ReadLine();
         int choice = 0;
         while (!int.TryParse(input, out choice) || choice < 1 || choice > 4)

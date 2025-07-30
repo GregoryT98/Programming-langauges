@@ -12,3 +12,4 @@
 /Users/businessonly/Desktop/Programming langauges/CharacterCreation/obj/Debug/net9.0/CharacterCreation.pdb
 /Users/businessonly/Desktop/Programming langauges/CharacterCreation/obj/Debug/net9.0/CharacterCreation.genruntimeconfig.cache
 /Users/businessonly/Desktop/Programming langauges/CharacterCreation/obj/Debug/net9.0/ref/CharacterCreation.dll
+/Users/businessonly/Desktop/Programming langauges/CharacterCreation/obj/Debug/net9.0/CharacterCreation.sourcelink.json
